@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("Hi");
+	printf("Hi. This is my first code");
 	return 0;
 }
